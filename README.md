@@ -28,4 +28,7 @@ Generative AI–powered threat analysis
 
 ## Dashboard
 
+<img width="1458" height="872" alt="cyberrag1" src="https://github.com/user-attachments/assets/d33052da-0f40-4d02-9d7e-2e219fdaaa67" />
+
+
 <img width="1460" height="875" alt="cyber-RAG" src="https://github.com/user-attachments/assets/53ab2bc1-c995-4456-b99c-ce09bcb49860" />
