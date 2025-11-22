@@ -1,6 +1,7 @@
 ## ⭐ AI-Powered Cyber Analytics with RAG + Dashboard
 
 CyberAI Sentinel is an end-to-end AI system that transforms raw cybersecurity incident logs into actionable insights using Machine Learning, RAG (Retrieval-Augmented Generation), and an interactive Streamlit dashboard.
+Python pipeline + Streamlit dashboard that turns cyber incident logs into threat scores, evaluation plots, and a RAG-powered assistant using sentence-transformers and optional LLM analysis.
 
 This project simulates a modern SOC (Security Operations Center) workflow by combining:
 
