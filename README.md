@@ -47,7 +47,7 @@ Generative AI–powered threat analysis
 
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)
 
-### © 2025 Gouthami Nadupuri  
+ © 2025 Gouthami Nadupuri  
 **All Rights Reserved.**
 
 This project, its source code, architecture, documentation, and assets are the exclusive intellectual property of **Gouthami Nadupuri**.
